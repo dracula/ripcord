@@ -2,7 +2,7 @@
 
 > A dark theme for [ripcord](https://cancel.fm/ripcord/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshot-ripcord.png)
 
 ## Install
 
