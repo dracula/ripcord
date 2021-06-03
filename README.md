@@ -1,18 +1,18 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [ripcord](https://cancel.fm/ripcord/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [ripcord](https://cancel.fm/ripcord/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/ripcord](https://draculatheme.com/ripcord).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![SylveonBottle](https://github.com/SylveonBottle.png?size=100)](https://github.com/SylveonBottle) |
 --- |
 [Zeno Rocha](https://github.com/zenorocha) |
 
