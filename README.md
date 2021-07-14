@@ -1,8 +1,8 @@
-# Dracula for [ripcord](https://cancel.fm/ripcord/)
+# Dracula for [Ripcord](https://cancel.fm/ripcord/)
 
-> A dark theme for [ripcord](https://cancel.fm/ripcord/).
+> A dark theme for [Ripcord](https://cancel.fm/ripcord/).
 
-![Screenshot](./screenshot-ripcord.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
@@ -10,11 +10,11 @@ All instructions can be found at [draculatheme.com/ripcord](https://draculatheme
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/ripcord/graphs/contributors).
 
 [![SylveonBottle](https://github.com/SylveonBottle.png?size=100)](https://github.com/SylveonBottle) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[SylveonBottle](https://github.com/SylveonBottle) |
 
 ## License
 
